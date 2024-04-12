@@ -1,0 +1,15 @@
+1. Linear Regression
+Mean: 5.037482786117751
+Standard Deviation: 1.059438240560695
+
+
+2. Decision Tree Regression
+Mean: 4.446617952549571
+Standard Deviation: 1.013806400754215
+
+
+3. Random Forest Regressor
+Mean: 3.326307468672161
+Standard Deviation: 0.6897022141632251
+
+Conclusion: Random Forest Model is performing better among all models
