@@ -8,7 +8,7 @@ browseURL("https://cloud.r-project.org/web/views/")
 
 # install package
 # way1: go to tools--> install package
-# Way2: uuing Rscript
+# Way2: using Rscript
 install.packages("LiblineaR")
 
 # List of all packages
